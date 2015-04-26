@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5af02b7b-f024-4469-84b5-5d6cbf30734a",
+    "isActive": false,
+    "balance": 2989.31,
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "blue",
+    "name": "Carmella Dorsey",
+    "gender": "female"
+  },
+  {
+    "id": "21424c5b-061e-46fc-aeaf-e91fd84283d3",
+    "isActive": true,
+    "balance": 1901.2,
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "blue",
+    "name": "Bond Christian",
+    "gender": "male"
+  },
+  {
+    "id": "f3b048e8-3ca0-4e21-b782-649e8b02982b",
+    "isActive": false,
+    "balance": 1505.76,
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "blue",
+    "name": "Latasha Briggs",
+    "gender": "female"
+  },
+  {
+    "id": "7843ae04-b52a-49bc-9620-ac74553d5627",
+    "isActive": true,
+    "balance": 1317.63,
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "green",
+    "name": "Curry Downs",
+    "gender": "male"
+  },
+  {
+    "id": "d1fa7490-058c-4fd8-a7ae-1df945abd88e",
+    "isActive": true,
+    "balance": 2577.28,
+    "picture": "http://placehold.it/32x32",
+    "age": 31,
+    "eyeColor": "brown",
+    "name": "Schneider King",
+    "gender": "male"
+  },
+  {
+    "id": "73dffc3e-a8dd-46de-8742-70acad40399e",
+    "isActive": true,
+    "balance": 3499.83,
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "green",
+    "name": "Griffin Hudson",
+    "gender": "male"
+  }
+]

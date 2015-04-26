@@ -1,0 +1,35 @@
+{
+  "name": "customer",
+  "plural": "customers",
+  "base": "PersistedModel",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "isActive": {
+      "type": "boolean"
+    },
+    "balance": {
+      "type": "number"
+    },
+    "picture": {
+      "type": "string"
+    },
+    "age": {
+      "type": "number"
+    },
+    "eyeColor": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "gender": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}

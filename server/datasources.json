@@ -1,0 +1,11 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "rethinkdb": {
+    "name": "rethinkdb",
+    "connector": "rethinkdb",
+    "url": "http://localhost:28015/test"
+  }
+}
