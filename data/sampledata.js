@@ -12,11 +12,6 @@ r.connect({
 }, function(err, conn) {
     if (err) throw err;
 
-    // r.db('test').tableDrop('customer').run(conn, function(err, result) {
-    //     if (err) throw err;
-    //     console.log(JSON.stringify(result, null, 2));
-    // });
-
     r.db('test').tableCreate('customer').run(conn, function(err, result) {
         if (err) throw err;
         console.log(JSON.stringify(result, null, 2));
