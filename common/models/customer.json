@@ -2,6 +2,10 @@
   "name": "customer",
   "plural": "customers",
   "base": "PersistedModel",
+  "idInjection": false,
+  "options": {
+    "validateUpsert": true
+  },
   "properties": {
     "id": {
       "type": "string"

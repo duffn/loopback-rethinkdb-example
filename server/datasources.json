@@ -4,8 +4,8 @@
     "connector": "memory"
   },
   "rethinkdb": {
+    "url": "http://localhost:28015/test",
     "name": "rethinkdb",
-    "connector": "rethinkdb",
-    "url": "http://localhost:28015/test"
+    "connector": "rethinkdb"
   }
 }
