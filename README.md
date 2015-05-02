@@ -2,7 +2,7 @@
 This is an example application showing how to connect [LoopBack](http://loopback.io)
 to RethinkDB using the community contributed [loopback-connector-rethinkdb](https://github.com/fuwaneko/loopback-connector-rethinkdb).
 
-This is the example code for the [Getting Started with Node.js LoopBack Connector for RethinkDB](https://strongloop.com/strongblog/) post on the StrongLoop blog.
+This is the example code for the [Getting Started with Node.js LoopBack Connector for RethinkDB](https://strongloop.com/strongblog/rethinkdb-connector-loopback-node-js-framework/) post on the StrongLoop blog.
 
 # License
 Copyright (c) 2015 Nicholas Duffy
